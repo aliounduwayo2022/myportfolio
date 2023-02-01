@@ -1,0 +1,89 @@
+* {
+    background-color: rgb(51, 4, 43) !important;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: monospace,sans-serif;
+}
+span {
+    color: #00abae;
+}
+.title-icon{
+    font-size: 20px;
+    font-weight: bold;
+}
+#about{
+    margin: 60px auto;
+    max-width: 400px;
+    text-align: center;
+}
+#about img{
+    border-radius: 5px 1000px ;
+    width: 200px;
+    margin-bottom: 20px;
+}
+#about .name {
+    font-size: 19px;
+    font-weight: bold;
+}
+#about .vocation {
+    font-size: 17px;
+    color: #00ae0e;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+#about .skill {
+    font-size: 14px;
+    color: #008bae;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+#about .email{
+    margin-top: 14px;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+#about .icons {
+    margin-top: 30px;
+    font-size: 50px;
+}
+#about .icons a{
+    color: black;
+}
+p {
+    font-size: 15px;
+    font-weight: bold;
+}
+h2{
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+}
+#project {
+    margin: 60px auto;
+    width: 80%;
+
+}
+#project h2 {
+    text-align: center;
+
+}
+#project .card img {
+    width: 100%;
+}
+#project .card-title{
+    font-weight: bold;
+}
+.font-black {
+    color: white !important;
+}
+.navbar-brand {
+    color: white !important;
+}
+button navbar-toggler {
+    background-color: white !important;
+}
